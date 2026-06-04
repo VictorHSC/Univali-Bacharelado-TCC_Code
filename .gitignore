@@ -1,1 +1,21 @@
+# Artefatos de build
+build/
+cspp_run
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Resultados gerados pelas execuções (regeneráveis)
+results/
+
+# Arquivos do sistema operacional
 .DS_Store
+._*
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
